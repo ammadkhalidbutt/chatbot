@@ -1,0 +1,6 @@
+@ColumnWiseSearch_HostAddress = http://localhost:5297
+
+GET {{ColumnWiseSearch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
