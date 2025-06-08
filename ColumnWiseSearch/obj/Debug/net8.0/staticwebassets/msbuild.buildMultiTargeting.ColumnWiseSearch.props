@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/ColumnWiseSearch.props" />
-</Project>
